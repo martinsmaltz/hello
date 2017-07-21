@@ -1,0 +1,2 @@
+This will have some python code if I can remember any.
+print(int(sys.argv[1]) + int(sys.argv[2]))
